@@ -1,0 +1,74 @@
+
+var employees = `[{
+        "userId": "1",
+        "jobTitleName": "Gargage man",
+        "firstName": "Patrik",
+        "lastName": "Jonathan",
+        "emailAddress": "patrik.k.jonathan@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "2" ,
+        "jobTitleName": "Analyst",
+        "firstName": "Tom",
+        "lastName": "Irani",
+        "emailAddress": "tomrirani@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "3" ,
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "4" ,
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "5" ,
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "6" ,
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "7" ,
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "8" ,
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "9" ,
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "Salary": "123"
+    }, {
+        "userId": "10" ,
+        "jobTitleName": "Program Directory",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "emailAddress": "tomhanks@gmail.com",
+        "Salary": "123"
+    }
+    
+    ]`
